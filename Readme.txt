@@ -1,3 +1,5 @@
+*于20180804上传到GitHub
+
 1. 请直接运行MusicComposingGUI.exe.
 
 
